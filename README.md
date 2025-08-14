@@ -186,6 +186,3 @@ jupyter notebook vendor_performance_analysis.ipynb
 
 ***
 
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82503446/086f3e29-f413-4e24-bb6d-ecbe59ba5827/ingestion_db.py
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82503446/c556f31b-aa74-4726-9ac8-6bbc05f7b80f/Kaggle_full_vendor_analytics.ipynb
-[5] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82503446/d8e4d7a7-dcea-4a7e-a3d2-8cf0e709f26a/vendor_performance_analysis.ipynb
